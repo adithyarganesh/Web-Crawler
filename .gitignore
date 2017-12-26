@@ -1,3 +1,9 @@
+#sample files
+*.log
+tweeter.py
+whatsel.py
+sell.py
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
