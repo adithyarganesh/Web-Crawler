@@ -3,11 +3,11 @@ Collected data through web crawling by performing different functions
 
 Used the Beautiful Soup library to crawl through various web pages and gather required data.
 
-#Selenium
+# Selenium
 For automation I used selenium, one of its uses is for web pages with infinite scrolling. An example usage of that 
 can be found at https://github.com/adithyarganesh/Fantasy-Football-Analysis
 
-#Applications
+# Applications
 In the following repository, I performed the following functions
   1. Make a simple custom search. 
     Uses: 
